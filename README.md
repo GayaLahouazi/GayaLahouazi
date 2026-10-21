@@ -1,6 +1,6 @@
 ## Hi, I'm Gaya Lahouazi 👋
 
-Final-year master's student in **Artificial Intelligence, Decision and Robotics (M2 AI2D)** at **Sorbonne Université**, Paris.
+Final-year master's student in **AI2D: Artificial Intelligence, Algorithms, Interaction, Decision Making (M2)** at **Sorbonne Université**, Paris.
 I build machine-learning systems that have to be **reliable**: models that come with their uncertainty, plans that are
 formally verified, agents that are evaluated on situations they have never seen.
 
